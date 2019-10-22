@@ -152,10 +152,6 @@ require('./wp-load.php');
          runOCR(url);
        }
   });
-
-  // $('#pic').click(function(){
-  //   $('#pic').toggleClass("pic");
-  // });
 </script>
 </body>
 </html>
